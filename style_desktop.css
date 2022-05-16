@@ -1,0 +1,47 @@
+@media screen and (min-width: 992px) {
+    nav {
+        background-color: rgb(255, 255, 255);
+        
+    }
+
+    nav a {
+        color: black;
+        
+    }
+
+    #banner {
+        background-image: url("https://s3.amazonaws.com/codecademy-content/courses/ltp/img/lodging.png");
+        height: 500px;
+        background-color: rgb(255, 255, 255);
+        background-size: 100% 100%;
+    }
+
+    #banner h1 {
+        padding-top: 13%;
+        padding-left: 10%;
+        color: white;
+    }
+
+    #banner p {
+        padding-left: 10%;
+        color: white;
+    }
+
+
+    a {
+        font-size: 18px;
+    }
+    h1 {
+        font-size: 33px;
+    }
+    p {
+        font-size: 18px;
+    }
+    h5 {
+        font-size: 21px;
+        font-weight: bold;
+    }
+    footer p {
+        font-size: 15px;
+    }
+}

@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+nav li {
+    position: relative;
+    display: inline;
+}
+
+main {
+    background-color: rgb(245, 240, 240);
+
+}
+
+.left {
+    float: left;
+    padding-left: 3%;
+}
+
+.right {
+    float: right;
+    padding-right: 3%;
+}
+
+#banner h1, p {
+    color: rgb(61, 60, 60);
+    font-weight: bold;
+}
+
+#text-main h1, p {
+    color: rgb(61, 60, 60);
+    font-weight: bold;
+
+}
+
+img {
+    width: 100%;
+    height: auto;
+    padding: 2% 2%;
+}
+
+footer {
+    background-color: rgb(235, 233, 233);
+}
+
+footer p{
+    font-size: 11px;
+    text-align: justify;
+}
+
+
+
+
